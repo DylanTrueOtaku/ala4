@@ -1,3 +1,4 @@
+<!-- This is the homepage -->
 <?php include 'header.php'?>
 
 <body>
