@@ -24,7 +24,7 @@ class roomClass
     // property declaration
     public $servername = "localhost";
     public $username = "root";
-    public $password = "";
+    public $password = "usbw";
     public $dbname = "hotelcal";
     private $conn;
 
