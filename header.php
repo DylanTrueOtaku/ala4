@@ -11,11 +11,11 @@
 <header>
   <nav>
     <ul>
-      <li>Home</li>
-      <li>Reservation</li>
-      <li>Contact</li>
-      <li>About</li>
-      <li>Login</li>
+      <li><a href="index.php">Home</a></li>
+      <li><a href="reservation.php">Reservation</a></li>
+      <li><a href="contact.php">Contact</a></li>
+      <li><a href="about.php">About</a></li>
+      <li><a href="login.php">Login</a></li>
     </ul>
   </nav>
 
