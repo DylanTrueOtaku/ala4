@@ -2,15 +2,17 @@ li {
   float: left;
   display: block;
   border: solid 2px black;
-  width: 19%;
+  width: 19.5%;
   height: 30px;
   text-align: center;
+  position: static;
 }
 
 #Form {
   border: solid 2px black;
+  margin-top: 100px;
 }
 
-#nav {
-  border: solid 2px black;
+nav {
+  margin-top: -20px;
 }
