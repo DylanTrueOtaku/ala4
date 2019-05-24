@@ -9,14 +9,14 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <header>
-
-  <ul>
-    <li>Home</li>
-    <li>Reservation</li>
-    <li>Contact</li>
-    <li>About</li>
-    <li>Login</li>
-  </ul>
-
+  <nav>
+    <ul>
+      <li>Home</li>
+      <li>Reservation</li>
+      <li>Contact</li>
+      <li>About</li>
+      <li>Login</li>
+    </ul>
+  </nav>
 
 </header>
