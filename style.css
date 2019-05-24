@@ -1,5 +1,8 @@
 li {
   float: left;
-  padding: 5px;
-  display: none;
+  display: block;
+  border: solid 2px black;
+  width: 19%;
+  height: 30px;
+  text-align: center;
 }
