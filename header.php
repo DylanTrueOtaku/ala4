@@ -10,7 +10,13 @@
 </head>
 <header>
 
-
+  <ul>
+    <li>Home</li>
+    <li>Reservation</li>
+    <li>Contact</li>
+    <li>About</li>
+    <li>Login</li>
+  </ul>
 
 
 </header>
