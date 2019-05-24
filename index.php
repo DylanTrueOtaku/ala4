@@ -1,5 +1,5 @@
 <!-- This is the homepage -->
-<?php include 'header.php'?>
+<?php include 'header.php'?>s
 
 <body>
 
