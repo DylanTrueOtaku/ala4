@@ -1,8 +1,8 @@
 li {
-  float: left;
+  margin: auto;
   display: block;
   border: solid 2px black;
-  width: 19.5%;
+  width: 19.6%;
   height: 30px;
   text-align: center;
   position: static;
@@ -10,9 +10,24 @@ li {
 
 #Form {
   border: solid 2px black;
-  margin-top: 100px;
 }
 
-nav {
-  margin-top: -20px;
+#nav {
+  margin: auto;
+  align-items: center;
+}
+
+a:focus,
+a:visited {
+  color: black
+}
+
+a:active {
+  background-color: grey;
+  color: black;
+}
+
+#page {
+  width: 80%;
+  margin: auto;
 }
