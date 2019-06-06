@@ -5,12 +5,27 @@ li {
   width: 19.6%;
   height: 30px;
   text-align: center;
-  position: static;
+  float: left;
 }
 
-#Form {
-  border: solid 2px black;
+ul {
+  margin: 0;
+  padding: 0;
+  width: 100.4%;
 }
+
+#form {
+  border: solid 2px black;
+  width: 50%;
+  float: left;
+}
+
+#forminfo {
+  border: solid 2px black;
+  width: 50%;
+  float: right;
+}
+
 
 #nav {
   margin: auto;
@@ -30,4 +45,7 @@ a:active {
 #page {
   width: 80%;
   margin: auto;
+  border: solid 2px black;
+  height: 1000px;
+  align-items: center
 }
