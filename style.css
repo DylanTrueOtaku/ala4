@@ -2,7 +2,7 @@ li {
   margin: auto;
   display: block;
   border: solid 2px black;
-  width: 19.6%;
+  width: 19.56%;
   height: 30px;
   text-align: center;
   float: left;
@@ -14,18 +14,30 @@ ul {
   width: 100.4%;
 }
 
+#page {
+  width: 80%;
+  margin: auto;
+  border: solid 2px black;
+  height: 600px;
+  align-items: center
+}
+
+/*Start of the contact page*/
 #form {
   border: solid 2px black;
-  width: 50%;
+  width: 49.634%;
   float: left;
+  height: 93.7%;
 }
 
 #forminfo {
   border: solid 2px black;
-  width: 50%;
+  width: 49.634%;
   float: right;
+  height: 93.7%;
 }
 
+/*End of the contact page*/
 
 #nav {
   margin: auto;
@@ -40,12 +52,4 @@ a:visited {
 a:active {
   background-color: grey;
   color: black;
-}
-
-#page {
-  width: 80%;
-  margin: auto;
-  border: solid 2px black;
-  height: 1000px;
-  align-items: center
 }
