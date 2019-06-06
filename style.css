@@ -1,3 +1,4 @@
+/*v-Header-v*/
 li {
   margin: auto;
   display: block;
@@ -14,6 +15,8 @@ ul {
   width: 100.4%;
 }
 
+/*^-Header-^*/
+
 #page {
   width: 80%;
   margin: auto;
@@ -22,7 +25,7 @@ ul {
   align-items: center
 }
 
-/*Start of the contact page*/
+/*v-Contact page-v*/
 #form {
   border: solid 2px black;
   width: 49.634%;
@@ -36,13 +39,29 @@ ul {
   width: 49.634%;
   float: right;
   height: 93.7%;
+  text-align: left;
+}
+
+#forminfo p {
+  width: 90%;
 }
 
 #problemdes {
   height: 130px;
 }
 
-/*End of the contact page*/
+#form form {
+  padding: 5px;
+  margin-left: 35%;
+  margin-top: 20px;
+}
+
+#form button {
+  margin-left: 55%;
+  margin-top: 20px;
+}
+
+/*^-Contact page-^*/
 
 #nav {
   margin: auto;

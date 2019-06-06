@@ -16,14 +16,14 @@
     <button>Submit</button>
   </div>
   <div id="forminfo">
-    If we dont respond within an week please contact us.
-    Our email and phone number will be put in this bar,
-    Dont hesitate to call us if your qeuestion is important.
-    <br><br>
-    Email: Hotelcal@hotmail.com
-    <br><br>
-    PN: 0172 01 23 45 67
+    <p>
+      If we dont respond within an week please contact us.
+      Our email and phone number will be put in this bar,
+      Dont hesitate to call us if your qeuestion is important.
+      <br><br>
+      Email: Hotelcal@hotmail.com
+      <br><br>
+      PN: 0172 01 23 45 67
+    </p>
   </div>
-
-</body>
-<?php include 'footer.php'?>
+</body> <?php include 'footer.php'?>
