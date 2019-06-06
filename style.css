@@ -28,6 +28,7 @@ ul {
   width: 49.634%;
   float: left;
   height: 93.7%;
+  align-items: center;
 }
 
 #forminfo {
@@ -35,6 +36,10 @@ ul {
   width: 49.634%;
   float: right;
   height: 93.7%;
+}
+
+#problemdes {
+  height: 130px;
 }
 
 /*End of the contact page*/
