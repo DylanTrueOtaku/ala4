@@ -3,7 +3,7 @@ li {
   margin: auto;
   display: block;
   border: solid 2px black;
-  width: 19.56%;
+  width: 19.6%;
   height: 30px;
   text-align: center;
   float: left;
@@ -20,30 +20,47 @@ ul {
   width: 100%;
 }
 
+#nav {
+  margin: auto;
+  align-items: center;
+}
+
+a:focus,
+a:visited {
+  color: black
+}
+
+a:active {
+  background-color: grey;
+  color: black;
+}
+
+
 /*^-Header-^*/
 
 #page {
   width: 80%;
   margin: auto;
   border: solid 2px black;
-  height: 500px;
-  align-items: center
+  height: 710px;
+  align-items: center;
+  margin-top: -10px;
 }
 
 /*v-Contact page-v*/
 #form {
   border: solid 2px black;
-  width: 49.634%;
+  width: 49.64%;
   float: left;
-  height: 92.7%;
+  height: 73.9%;
   align-items: center;
 }
 
 #forminfo {
   border: solid 2px black;
-  width: 49.634%;
+  width: 49.64%;
   float: right;
-  height: 92.7%;
+  height: 73.9%;
   text-align: left;
 }
 
@@ -63,23 +80,8 @@ ul {
 }
 
 #form button {
-  margin-left: 55%;
-  margin-top: 20px;
+  margin-left: 28%;
+  margin-top: 10px;
 }
 
 /*^-Contact page-^*/
-
-#nav {
-  margin: auto;
-  align-items: center;
-}
-
-a:focus,
-a:visited {
-  color: black
-}
-
-a:active {
-  background-color: grey;
-  color: black;
-}
