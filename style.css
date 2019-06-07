@@ -38,6 +38,7 @@ a:active {
 
 /*^-Header-^*/
 
+/*v-Main page-v*/
 #page {
   width: 80%;
   margin: auto;
@@ -46,6 +47,14 @@ a:active {
   align-items: center;
   margin-top: -10px;
 }
+
+#placement {
+  height: 66.9%;
+  border: solid 2px black;
+  float: left;
+}
+
+/*^-Main page-^*/
 
 /*v-Contact page-v*/
 #form {
@@ -85,3 +94,15 @@ a:active {
 }
 
 /*^-Contact page-^*/
+
+/*v-Footer-v*/
+footer {
+  border: solid 2px black;
+  background: black;
+  float: left;
+  height: 8%;
+  width: 100%;
+  margin-left: -2px;
+}
+
+/*^-Footer-^*/
