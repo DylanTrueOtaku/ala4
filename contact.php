@@ -3,7 +3,7 @@
 <body>
   <div id="form">
 
-    <form>
+    <form method="get">
       First name:<br>
       <input type="text" name="firstname"><br>
       Last name:<br>
@@ -12,8 +12,8 @@
       <input type="text" name="email"><br>
       Descripe your problem here:<br>
       <textarea type="text" name="email" id="problemdes"></textarea><br>
+      <button>Submit</button>
     </form>
-    <button>Submit</button>
   </div>
   <div id="forminfo">
     <p>
