@@ -21,7 +21,7 @@ ul {
   width: 80%;
   margin: auto;
   border: solid 2px black;
-  height: 600px;
+  height: 500px;
   align-items: center
 }
 
@@ -30,7 +30,7 @@ ul {
   border: solid 2px black;
   width: 49.634%;
   float: left;
-  height: 93.7%;
+  height: 92.7%;
   align-items: center;
 }
 
@@ -38,7 +38,7 @@ ul {
   border: solid 2px black;
   width: 49.634%;
   float: right;
-  height: 93.7%;
+  height: 92.7%;
   text-align: left;
 }
 
