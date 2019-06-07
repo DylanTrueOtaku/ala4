@@ -9,7 +9,9 @@
   <link rel="stylesheet" href="style.css">
   <link rel="script" href="script.js">
 </head>
+
 <div id="page">
+  <img src="Img/HotelCalBanner.png">
   <header>
     <div id="nav">
       <nav>
