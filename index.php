@@ -2,8 +2,7 @@
 <?php include 'header.php'?>
 
 <body>
-  <div id="placement">
-
-  </div>
+  <div></div>
+  <div></div>
 </body>
 <?php include 'footer.php'?>
