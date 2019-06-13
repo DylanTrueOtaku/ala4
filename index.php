@@ -2,7 +2,7 @@
 <?php include 'header.php'?>
 
 <body>
-  <div id='placement'>
+  <div id="placement">
 
   </div>
 </body>
