@@ -30,9 +30,38 @@ a:visited {
   color: black
 }
 
-a:active {
+/*v-Hovers-v*/
+#index a:hover {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#reservation a:hover {
+  padding-left: 81px;
+  padding-right: 81px;
+}
+
+#contact a:hover {
+  padding-left: 95px;
+  padding-right: 95px;
+}
+
+#about a:hover {
+  padding-left: 99.5px;
+  padding-right: 99.5px;
+}
+
+#login a:hover {
+  padding-left: 101px;
+  padding-right: 101px;
+}
+
+/*^-Hovers-^*/
+a:active,
+a:hover {
   background-color: grey;
   color: black;
+  padding-bottom: 12px;
 }
 
 
