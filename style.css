@@ -140,4 +140,18 @@ footer {
 /*^-Footer-^*/
 
 /*v-Homepage-v*/
+#homepage {
+  border: solid 2px black;
+  float: left;
+  height: 66.9%;
+  width: 65%;
+}
+
+#homepageinfo {
+  border: solid 2px black;
+  float: right;
+  height: 66.9%;
+  width: 34.32%;
+}
+
 /*^-Homepage-^*/
