@@ -1,6 +1,7 @@
 <?php include 'header.php'?>
 
 <body>
+
   <div id="form">
 
     <form method="get">
