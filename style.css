@@ -155,3 +155,20 @@ footer {
 }
 
 /*^-Homepage-^*/
+
+/*v-Aboutpage-v*/
+#mapinfo {
+  border: solid 2px black;
+  width: 53.9%;
+  float: right;
+  height: 99.5%;
+}
+
+#map {
+  border: solid 2px black;
+  float: left;
+  height: 99.5%;
+  width: 45.4%;
+}
+
+/*^-Aboutpage-^*/
