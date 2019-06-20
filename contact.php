@@ -13,7 +13,7 @@
       <input type="text" name="email"><br>
       Descripe your problem here:<br>
       <textarea type="text" name="email" id="problemdes"></textarea><br>
-      <button>Submit</button>
+      <button onclick="javascript: alert('your message has been sent, we will respond as soon as possible');">Submit</button>
     </form>
   </div>
   <div id="forminfo">
