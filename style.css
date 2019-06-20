@@ -144,14 +144,19 @@ footer {
   border: solid 2px black;
   float: left;
   height: 66.9%;
-  width: 65%;
+  width: 63%;
+}
+
+#homepage img {
+  height: 100%;
+  width: 100%;
 }
 
 #homepageinfo {
   border: solid 2px black;
   float: right;
   height: 66.9%;
-  width: 34.32%;
+  width: 36.33%;
 }
 
 /*^-Homepage-^*/
