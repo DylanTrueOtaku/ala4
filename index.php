@@ -2,7 +2,9 @@
 <?php include 'header.php'?>
 
 <body>
-  <div id="homepage"></div>
+  <div id="homepage">
+    <img src="Img/hotelcal.jpg">
+  </div>
   <div id="homepageinfo">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem justo, fermentum ac justo ut, facilisis sollicitudin ex. Nunc rutrum eu est eu iaculis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas eu posuere ex. Donec a nunc in nibh sagittis volutpat in a tortor. Proin dapibus risus sed mi imperdiet volutpat. Pellentesque sagittis sem ac purus pulvinar, consequat interdum dui tristique. Aliquam vehicula velit quis aliquam faucibus.
     </p>
