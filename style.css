@@ -168,6 +168,22 @@ footer {
 /*^-Homepage-^*/
 
 /*v-Aboutpage-v*/
+.map-container {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 200px;
+  width: 200px;
+}
+
+.map-container iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
 #mapinfo {
   border: solid 2px black;
   width: 53.9%;
