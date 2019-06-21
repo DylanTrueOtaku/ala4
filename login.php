@@ -4,6 +4,5 @@
   <div id='placement'>
 
   </div>
-
 </body>
 <?php include 'footer.php'?>
