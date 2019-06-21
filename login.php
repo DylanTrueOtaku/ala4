@@ -2,12 +2,33 @@
 
 <body>
   <div id='placement'>
-    <script>
-      if (isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true) {
-        header("location: welcome.php");
-        exit;
+    <script language="javascript">
+      <!--
+      function pasuser(form) {
+        if (form.id.value == "Hotelcal") {
+          if (form.pass.value == "Calhotel") {
+            location = "admin.php"
+          } else {
+            alert("Invalid Password")
+          }
+        } else {
+          alert("Invalid UserID")
+        }
+      }
 
+      -->
     </script>
+    <center>
+      <h1><b>Username:</b></h1>
+      <form name="login">
+        <input name="username" type="text">
+        <h1><b>Password:</b></h1>
+        <input name="password" type="password">
+        <input type="button" value="Login" onClick="pasuser(this.form)">
+        <input type="Reset" name="Reset">
+      </form>
+    </center>
   </div>
+
 </body>
 <?php include 'footer.php'?>
