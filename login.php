@@ -22,9 +22,10 @@
         <input name="username" type="text">
         <h1><b>Password:</b></h1>
         <input name="password" type="password">
-        <center><input type="button" value="Login" onClick="pasuser(this.form)">
+        <div id="Loginbuttons">
+          <input type="button" value="Login" onClick="pasuser(this.form)">
           <input type="Reset" name="Reset">
-        </center>
+        </div>
       </form>
     </center>
   </div>
