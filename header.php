@@ -7,6 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title> Hotel California </title>
   <link rel="stylesheet" href="style.css">
+  <link rel="script" href="script.js">
 </head>
 
 <div id="page">

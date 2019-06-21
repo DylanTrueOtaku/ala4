@@ -3,6 +3,7 @@
 <body>
   <div id='placement'>
     <script language="javascript">
+      <!--//
       function pasuser(form) {
         if (form.id.value == "Hotelcal") {
           if (form.pass.value == "Calhotel") {
@@ -13,8 +14,10 @@
         } else {
           alert("Invalid UserID")
         }
-      }
+      };
+      //
 
+      -->
     </script>
     <center>
       <h1><b>Username:</b></h1>
@@ -22,10 +25,9 @@
         <input name="username" type="text">
         <h1><b>Password:</b></h1>
         <input name="password" type="password">
-        <div id="Loginbuttons">
+        <p id="Loginbuttons">
           <input type="button" value="Login" onClick="pasuser(this.form)">
-          <input type="Reset" name="Reset">
-        </div>
+        </p>
       </form>
     </center>
   </div>
