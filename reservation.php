@@ -1,4 +1,5 @@
 <?php include 'header.php'?>
+<link rel="stylesheet" href="calendar.php">
 
 <body>
   <div id='placement'>

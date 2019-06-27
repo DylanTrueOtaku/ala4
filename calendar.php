@@ -1,9 +1,4 @@
     <?php
-/**
-*@author  Xu Ding
-*@email   thedilab@gmail.com
-*@website http://www.StarTutorial.com
-**/
 class Calendar {
 
     /**
