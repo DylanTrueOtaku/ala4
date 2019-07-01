@@ -3,7 +3,7 @@
 <body>
   <div id='placement'>
     <script language="javascript">
-      <!--//
+      //
       /*This Script allows people to enter by using a form that asks for a
 UserID and Password*/
       function pasuser(form) {
@@ -19,7 +19,6 @@ UserID and Password*/
       }
       //
 
-      -->
     </script>
     <center>
       <h1><b>Username:</b></h1>

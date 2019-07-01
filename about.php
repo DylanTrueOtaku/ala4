@@ -3,7 +3,7 @@
 <body>
   <div id='placement'>
     <div id="map">
-      <!--Google map-->
+      <!--Google Maps-->
       <div>
         <iframe src="https://maps.google.com/maps?q=Hotel+California+Todos+Santos&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
