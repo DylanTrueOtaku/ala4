@@ -1,7 +1,7 @@
 <?php include 'header.php'?>
 
 <body>
-
+  <!-- Email form`-->
   <div id="form">
 
     <form method="get">
@@ -16,6 +16,7 @@
       <button onclick="javascript: alert('your message has been sent, we will respond as soon as possible');">Submit</button>
     </form>
   </div>
+  <!-- Email form`-->
   <div id="forminfo">
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga fugit ab, molestiae velit dicta facilis corrupti iure itaque eius, sed illo inventore incidunt cupiditate veritatis harum ea sequi, quo maxime.
